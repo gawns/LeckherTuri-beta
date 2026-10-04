@@ -1,4 +1,4 @@
-# PROJECT-WEB-PWP — Pizza Lecker Thury (versi awal)
+# — Pizza Lecker Thury (versi awal)
 
 Versi awal aplikasi web pemesanan Pizza Lecker Thury: Flask + MySQL dengan template Jinja.
 
